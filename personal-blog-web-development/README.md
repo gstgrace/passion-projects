@@ -12,5 +12,7 @@ Ongoing:
 
 - Enhance functionality by adding RESTful Routing
 
+- Deploying my web application with Heroku
+
 ![image](https://github.com/gstgrace/passion-projects/assets/105472929/0a81516c-f716-4d23-bb3b-579b8597dabb)
 
