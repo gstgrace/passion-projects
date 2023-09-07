@@ -1,7 +1,10 @@
-Producing Dynamic HTML Pages
+- Producing Dynamic HTML Pages
 
-Combining Jinja Templating with APIs
+- Combining Jinja Templating with APIs
 
-Web Server and URL Building with Flask
+- Web Server and URL Building with Flaskfront-end toolkits - Bootstrap
 
-<img width="1065" alt="image" src="https://github.com/gstgrace/passion-projects/assets/105472929/6170c24d-51b4-4967-96f2-ab702a74fc67">
+- Elevating front-end layout using Bootstrap
+
+![image](https://github.com/gstgrace/passion-projects/assets/105472929/0a81516c-f716-4d23-bb3b-579b8597dabb)
+
