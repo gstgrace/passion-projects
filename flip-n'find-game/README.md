@@ -6,4 +6,4 @@ The player then flips over two cards, selecting them by clicking on them.
 If the two tiles have the same image, they remain face up. If not, they will be flipped face down again after a short delay.
 The game ends and you win when all the tiles are turned face up. 
 
-Let's play: https://replit.com/@gstgrace/SGongBabyCareHubProject#index.html
+Let's play: https://flip-n-find-game.gstgrace.repl.co/
